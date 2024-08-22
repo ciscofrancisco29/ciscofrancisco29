@@ -6,4 +6,4 @@
 
 -I'm on a journey to get my certificate and learn the JavaScript language
 
--I'm from Latin America, more specifically Brazil
+-I'm from Latin America in brazil, more specifically sao paulo
